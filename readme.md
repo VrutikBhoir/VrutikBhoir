@@ -70,9 +70,8 @@ I’m a motivated developer who enjoys building scalable applications, solving r
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn URL]
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: (if available)
+- 💼 LinkedIn: www://linkedin.com/in/vrutikbhoir
+- 📧 Email: vrutikbhoir462@gmail.com
 
 ---
 
